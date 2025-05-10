@@ -1,0 +1,6 @@
+mkdir = command use to create directory
+
+1.mkdir directoryname = eg: mkdir images
+2.mkdir directoryname/sub-directory = eg: mkdir images/pics
+3.mkdir -p directoryname/sub-directory = eg: mkdir -p names/out
+4.mkdir -p directoryname/sub-directory = eg: mkdir -p names/{john,tom,bob} = to create multiples subdirectories at a same time. 

@@ -1,0 +1,6 @@
+cp commands
+1.cp source destination = eg: cp file1.txt file2.txt = it will copy the content from file1 to file2
+2.cp dir1 dir2 = it will copy the dir1 to dir2.but if dir contains any files insede means it will not transfer
+3.cp -rv dir1 dir2 = it will cpoy the dir1 with files and folders to dir2.
+4.cp file1.txt file2.txt dir1 = it will copy the two files to one dir.  
+5. cp -i file1.txt file2.txt dir1 = the -i will not overwrite the existing content .Before overwriting it will ask for your permission.

@@ -1,0 +1,5 @@
+mv commands
+1.mv source destination
+2.mv file1.txt file2.txt = it will move the content of file 1 to file 2
+3.mv dir1 dir2 = it will move the dir with contents and files to new directory
+4.it will 

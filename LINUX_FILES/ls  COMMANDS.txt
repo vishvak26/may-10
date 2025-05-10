@@ -1,0 +1,15 @@
+1.pwd - to check the current directory we are working with
+2.cd  - to change the directory/navigate
+3.cd directory/file name = if you give space between the file/directory name you should use (cd "My books" or cd 'my books' or cd My\ books).
+3.ls  - to list the files in the directory
+4.ls -l = to list the files/directory in columnwise
+5.ls -a = to list the hidden files.
+6.ls -al = to list the hidden files columnwise
+7.ls -lS = to list the files/directory size wise 
+8.ls .. = to go one step back from current directory
+9.ls ../.. = to go two step back from current directory and it will list the file or directory also
+10.ls directoryname/*.file extension = to display the files with same extension that we have entered.
+11.ls directoryname/*.* = to display all the files in the current directory
+12.ls -a or ls -l or ls -al or ls -al directoryname/filename > out.txt = to store the output of the command by creating the new file.
+13.ls ~ = it will navigate you to the home and list the files
+ 

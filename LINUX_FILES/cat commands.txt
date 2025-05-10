@@ -1,0 +1,8 @@
+cat commands = to display the content of the txt files
+
+1.cat filename  = it will display the content of the file(eg:cat list1.txt list2.txt)
+2.cat -b filename = it will display the content of the file and adds the number to the non-blank lines(eg:cat -b list1.txt)
+3.cat -n filename = it will display the content of the file and adds the number to the blank lines also.
+4.cat -s filename = it will display the content of the file and squeeze the more blank lines into one line(eg: list1 line1 blsp line 2 blsp line3)
+5.cat -E filename = it will display the content of the file with the $ symbol to indicate the ending point of each line including the blank lines.(eg: list1 line1$)
+																		    													

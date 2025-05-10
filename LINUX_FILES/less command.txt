@@ -1,0 +1,6 @@
+less commands
+1.less file1.txt = it will display the content of the file one by one
+2./books = to search for the keyword use slash symbol .it will search from the top
+3.?books = i will search from the bottom
+4.shift+caps G to navigate to the bottom of the file
+5.1g to navigate to the top of the file

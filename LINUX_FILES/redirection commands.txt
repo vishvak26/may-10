@@ -1,0 +1,4 @@
+redirection comands(>,>>=we can use this with any commands)
+
+1.> = we can able to store the output of the command to the newor existing file by using this symbol(eg:cat list1.txt list2.txt > out.txt)
+2.>> = it will append the content to the file without overwriting it.(eg:cat list1.txt >> list2.txt).  

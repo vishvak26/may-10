@@ -1,0 +1,5 @@
+rmdir and rm commands
+1.rmdir directory name = to remove the directory
+2.rmdir -p directory name = to remove the directory(eg:rmdir -p a/b/c/d/e).it will remove from top level directory.it will fail if any sub directories contains files
+3.rm = to remove the directory including file (eg:rm -r or rm -rv a/b/ = v will display the structure of the directories).
+4.ls -R = to display the directory structure.
